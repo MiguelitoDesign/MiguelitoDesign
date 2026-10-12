@@ -8,7 +8,7 @@
 
 <br/>
 
-![Miguelito-Design-Portfolio](./preview.png)
+![Miguelito-Design-Portfolio](./Preview.png)
 
 ## 🚀 À propos de moi
 
